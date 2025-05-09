@@ -1,4 +1,4 @@
-# Web-Scraping-Utilizando-Java
+# Web-Scraping utilizando Java
 Projeto para raspagem de dados do site MERCADO LIVRE utilizando Java.
 
 Utiliando: 
