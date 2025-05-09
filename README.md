@@ -3,7 +3,7 @@ Projeto para raspagem de dados do site MERCADO LIVRE utilizando Java.
 
 <h3> Utiliando: </h3>
 <p> Java </p>
-<p>> Selenium </p>
+<p> Selenium </p>
 <p> Microsift Edge Driver </p>
 
 <h3> Ideia do projeto: </h3>
